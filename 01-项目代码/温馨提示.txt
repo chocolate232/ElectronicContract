@@ -1,0 +1,2 @@
+项目的前端和后端都在gonivinvk/code目录下
+合约在gonivinvk/code/becs-fontend/becs/src/contract内

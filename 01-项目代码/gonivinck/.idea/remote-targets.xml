@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="golang" type="docker-compose" uuid="629bb86c-585b-4bc5-950a-7d6d9619f4af">
+        <config>
+          <option name="targetPlatform">
+            <TargetPlatform />
+          </option>
+          <option name="configurationFiles">
+            <list>
+              <option value="C:\test\work\go\goland\gonivinck\docker-compose.yml" />
+            </list>
+          </option>
+          <option name="serviceName" value="golang" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/go" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+            <option name="goVersion" value="go1.22.2 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+      <target name="golang2" type="docker-compose" uuid="11f75b22-c677-451d-9e4f-62f3b619ceb1">
+        <config>
+          <option name="targetPlatform">
+            <TargetPlatform />
+          </option>
+          <option name="configurationFiles">
+            <list>
+              <option value="C:\test\work\go\goland\gonivinck\docker-compose.yml" />
+            </list>
+          </option>
+          <option name="serviceName" value="golang" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/go" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+            <option name="goVersion" value="go1.22.2 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

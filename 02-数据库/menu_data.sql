@@ -1,0 +1,16 @@
+INSERT INTO becs.menu (id, name, URL, father) VALUES (1, '个人管理', '/userindex', 12);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (2, '用户列表', '/user', 12);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (3, '合同列表', '/contract', 13);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (4, '合同模板', '/demo', 13);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (5, '合同审核', '/audit', 13);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (6, '印章列表', '/seal', 14);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (7, '持有印章', '/myseal', 14);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (8, '全部合同', '/usercontract', 15);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (9, '待处理合同', '/process', 15);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (10, '用户手册', '/book', 16);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (11, '常见问题解答', '/answer', 16);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (12, '用户管理', 'user', 0);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (13, '合同管理', 'contract', 0);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (14, '印章管理', 'seal', 0);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (15, '我的合同', 'usercontract', 0);
+INSERT INTO becs.menu (id, name, URL, father) VALUES (16, '帮助和支持', 'help', 0);
